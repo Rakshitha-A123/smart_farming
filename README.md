@@ -22,6 +22,6 @@ Technology Used:
 
 Developed By
 
-Rakshitha A 
+Rakshitha A, 
 PES Institute of Technology and Management, Shivamogga  
 B.E. Computer Science and Design Engineering  
